@@ -129,7 +129,7 @@ EMAIL_USE_TLS = True
 # EMAIL_USE_SSL=FALSE
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "otptestingforacco@gmail.com"
-EMAIL_HOST_PASSWORD = 'sxmgwyrorhwrdqil'
+EMAIL_HOST_PASSWORD = 'yourappPassword'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
